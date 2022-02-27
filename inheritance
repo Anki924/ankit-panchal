@@ -40,6 +40,6 @@ class display:public employee,public salary{
 int main(){
     
     display ankit,devesh;
-
+    ankit.dis();
     return 0;
 }
